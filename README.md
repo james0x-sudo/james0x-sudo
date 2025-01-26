@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @james0x-sudo
+- 👀 I’m interested in AI Agent, blockchain, frontend, serverless.
+- 🌱 I’m currently working on Sui & DeFi applications.
+- 💞️ I'm a TypeScript developer using Next.js & React.
+- 📫 Reach me [james.surprise197@passinbox.com]
